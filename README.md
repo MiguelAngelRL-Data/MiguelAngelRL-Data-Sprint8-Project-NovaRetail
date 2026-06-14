@@ -69,6 +69,10 @@ Se utilizaron:
 * Scatterplots.
 * Comparaciones por segmentos.
 
+<img width="1047" height="696" alt="HeatMap matriz de correlación" src="https://github.com/user-attachments/assets/477857b3-b873-47fc-9ff4-42ec5a8c6e9a" />
+
+<img width="1112" height="320" alt="Scatterplots" src="https://github.com/user-attachments/assets/cb0343ef-df44-4228-8544-cf0d14e8ad80" />
+
 ### Análisis estadístico
 
 Dependiendo del tipo de variable se aplicaron:
@@ -94,6 +98,8 @@ Fue la relación más fuerte identificada en todo el análisis.
 **Interpretación**
 
 Los clientes que realizan más compras mensuales tienden a generar mayores ingresos anuales para la empresa.
+
+<img width="849" height="733" alt="Relación compras mensuales e ingreso anual" src="https://github.com/user-attachments/assets/3e71f28d-1de1-43ee-8216-2af47e979069" />
 
 **Implicación de negocio**
 
